@@ -4,7 +4,7 @@
 
   const host = 'wayfarer.scopely.com';
   const origin = `https://${host}`;
-  const mapPath = '/new/mapview';
+  const mapPath = '/mapview';
   const mapDataPath = '/api/v1/vault/mapview/gcs';
 
   function parseUrl(value) {
